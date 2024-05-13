@@ -11,7 +11,7 @@ library(plotly) #To help interactive graphing
 ### Load data ###
 #################
 
-read_df_shiny_2 <- readRDS("df_shiny_2.Rda")
+read_df_shiny_2 <- readRDS("data/df_shiny_2.Rda")
 
 #################################
 ### Define UI for application ###
