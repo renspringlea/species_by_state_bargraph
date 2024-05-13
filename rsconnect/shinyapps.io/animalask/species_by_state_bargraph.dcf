@@ -1,0 +1,13 @@
+name: species_by_state_bargraph
+title: species_by_state_bargraph
+username: animalask
+account: animalask
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11959177
+bundleId: 8589829
+url: https://animalask.shinyapps.io/species_by_state_bargraph/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .here
